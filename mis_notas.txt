@@ -1,0 +1,3 @@
+Esta semana aprendí a manejar archivos de texto en Java.
+El uso de FileWriter y BufferedReader es muy útil para leer y escribir.
+Practicar con ejemplos me ayuda a entender mejor la programación.
